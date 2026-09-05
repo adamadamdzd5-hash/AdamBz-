@@ -1,0 +1,6 @@
+{
+  "name": "AdamBz-GPU",
+  "description": "مواصفات كروت الشاشة ومعالجات الهواتف الذكية لأكثر من 300 شريحة مع مقارنة وترتيب الأداء ومواصفات الرسوميات ومسيرة تطور الشركات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

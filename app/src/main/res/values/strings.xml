@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdamBz-GPU</string>
+    <string name="title_soc_specs">AdamBz-GPU - مواصفات كروت الشاشة</string>
+    <string name="search_hint">ابحث عن المعالج أو كارت الشاشة (Snapdragon, Mali, Adreno...)</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_brand">الشركة المصنعة</string>
+    <string name="filter_gpu_family">عائلة كارت الشاشة</string>
+    <string name="filter_ray_tracing">دعم تتبع الأشعة</string>
+    <string name="tab_catalog">قائمة الشرائح</string>
+    <string name="tab_compare">مقارنة كارتين</string>
+    <string name="tab_ranking">ترتيب الأداء</string>
+    <string name="stat_chips_count">300+ شريحة</string>
+</resources>
